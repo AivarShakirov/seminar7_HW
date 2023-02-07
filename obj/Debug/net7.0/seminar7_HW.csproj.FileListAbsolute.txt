@@ -1,0 +1,15 @@
+C:\Users\Айвар\Desktop\seminar7_HW\bin\Debug\net7.0\seminar7_HW.exe
+C:\Users\Айвар\Desktop\seminar7_HW\bin\Debug\net7.0\seminar7_HW.deps.json
+C:\Users\Айвар\Desktop\seminar7_HW\bin\Debug\net7.0\seminar7_HW.runtimeconfig.json
+C:\Users\Айвар\Desktop\seminar7_HW\bin\Debug\net7.0\seminar7_HW.dll
+C:\Users\Айвар\Desktop\seminar7_HW\bin\Debug\net7.0\seminar7_HW.pdb
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.csproj.AssemblyReference.cache
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.AssemblyInfoInputs.cache
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.AssemblyInfo.cs
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.csproj.CoreCompileInputs.cache
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.dll
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\refint\seminar7_HW.dll
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.pdb
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\seminar7_HW.genruntimeconfig.cache
+C:\Users\Айвар\Desktop\seminar7_HW\obj\Debug\net7.0\ref\seminar7_HW.dll
